@@ -1,1 +1,1 @@
-# Basic-Data-Science-Tutorial
+# Basic Data Science Tutorial
